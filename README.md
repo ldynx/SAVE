@@ -10,14 +10,14 @@ This repository contains the official implementation of
 ## Teaser
 <h4 align="center"> 🐱 A cat is roaring ➜ 🐶 A dog is < S<sub>mot</sub> > / 🐯 A tiger is < S<sub>mot</sub> > </h4>
 
-<img src="assets/cat_flower/cat.gif" width="300" height="300"><img src="assets/cat_flower/Ours_dog.gif" width="300" height="300"><img src="assets/cat_flower/Ours_tiger.gif" width="300" height="300">
+<img src="assets/cat_flower/cat.gif" width="200" height="200"><img src="assets/cat_flower/Ours_dog.gif" width="200" height="200"><img src="assets/cat_flower/Ours_tiger.gif" width="200" height="200">
 
 <h4 align="center"> 😎 A man is skiing ➜ 🐻 A bear is < S<sub>mot</sub> > / 🐭 Mickey-Mouse is < S<sub>mot</sub> > </h4>
 
-<img src="assets/man-skiing/man-skiing.gif" width="300" height="300"><img src="assets/man-skiing/Ours_bear.gif" width="300" height="300"><img src="assets/man-skiing/Ours_Mickey-Mouse.gif" width="300" height="300">
+<img src="assets/man-skiing/man-skiing.gif" width="200" height="200"><img src="assets/man-skiing/Ours_bear.gif" width="200" height="200"><img src="assets/man-skiing/Ours_Mickey-Mouse.gif" width="200" height="200">
 
 <p align="center">
-<em>SAVE reframes the video editing task as a motion inversion problem, seeking to find the motion word < S<sub>mot</sub> > in textual embedding space to well represent the motion in a source video. The video editing task can be achieved by isolating the motion from a single source video with </br> < S<sub>mot</sub> > and then modifying the protagonist accordingly.</em>
+<em>SAVE reframes the video editing task as a motion inversion problem, seeking to find the motion word < S<sub>mot</sub> > in textual embedding space to well represent the motion in a source video. The video editing task can be achieved by isolating the motion from a single source video with < S<sub>mot</sub> > and then modifying the protagonist accordingly.</em>
 </p>
 
 ## Citation
