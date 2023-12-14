@@ -9,9 +9,9 @@ This repository contains the official implementation of
 
 ## 🐈 Teaser
 <table align="center">
-    <tr><td><img src="assets/cat_flower/cat.mp4"><img src="assets/cat_flower/Ours_dog.mp4"><img src="assets/cat_flower/Ours_tiger.mp4"></td></tr>
+    <tr><td><video src="assets/cat_flower/cat.mp4"></video><video src="assets/cat_flower/Ours_dog.mp4"></video><video src="assets/cat_flower/Ours_tiger.mp4"></video></td></tr>
     <tr><td>A cat is roaring </td></tr>
-    <tr><td><img src="assets/cat_flower/cat.mp4"><img src="assets/cat_flower/Ours_dog.mp4"><img src="assets/cat_flower/Ours_tiger.mp4"></td></tr>
+    <tr><td><video src="assets/cat_flower/cat.mp4"></video><video src="assets/cat_flower/Ours_dog.mp4"></video><video src="assets/cat_flower/Ours_tiger.mp4"></video></td></tr>
     <tr><td>A man is skiing </td></tr>
 </table>
 
