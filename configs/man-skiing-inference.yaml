@@ -1,0 +1,14 @@
+pretrained_model_path: "./workdir/man-skiing/save"
+image_path: "data/man-skiing/"
+######## TEXTUAL INVERSION ########
+placeholder_tokens: "<s1>|<s2>"
+initializer_tokens: "man|skiing"
+sentence_component: "<o>|<v>"
+###################################
+prompt: "a <s1> man is <s>"
+prompts:
+  - "a <s1> man is <s2>"
+  - "a bear is <s2>"
+blend_word:
+  - 'man'
+  - 'bear'

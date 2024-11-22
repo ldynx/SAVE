@@ -1,0 +1,13 @@
+pretrained_model_path: "./workdir/cat-flower/save"
+image_path: "./data/cat_flower"
+######## TEXTUAL INVERSION ########
+placeholder_tokens: "<s1>|<s2>"
+sentence_component: "<o>|<v>"
+###################################
+prompt: "a <s1> cat is <s2>"
+prompts:
+  - "a <s1> cat is <s2>"
+  - "a dog is <s2>"
+blend_word:
+  - 'cat'
+  - 'dog'
